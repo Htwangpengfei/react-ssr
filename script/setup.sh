@@ -9,3 +9,5 @@ npm run start
 # 若是没权限执行：chmod +x script/setup.sh
 
 # .gitignore 忽略文件配置
+
+# ssh-keygen -t rsa -b 4096 -C "your_email@example.com"m,增加ssh-key
